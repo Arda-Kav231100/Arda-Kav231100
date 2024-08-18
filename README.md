@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>ARDA KAV</title>
   </head>
   <body>
     <p>Name : Arda Kav</p><br>
